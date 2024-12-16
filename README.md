@@ -1,5 +1,3 @@
-# PRODIGY_ML_01
-
 # House Price Prediction Web App 🏠
 
 A simple and interactive web app for predicting house prices using machine learning. Input the total square footage and number of rooms to get an instant prediction of the selling price. Built with **Streamlit** and powered by a trained **Linear Regression model**.
